@@ -17,7 +17,7 @@ sudo npm i -g @nestjs/cli
 Clone this repo:
 
 ```bash
-git clone git@github.com:zesbytes/nestjs-swagger-response-type-lost.git
+git clone https://github.com/zesbytes/nestjs-swagger-response-type-lost.git
 ```
 
 Install dependencies
